@@ -1,0 +1,10 @@
+{
+  "title": "EvidenceDesk",
+  "repository": "evidencedesk-agentic-rag",
+  "description": "Document Q&A with LangChain, Chroma, Hugging Face embeddings, seven retrieval strategies and inspectable page citations.",
+  "demo": "evidence",
+  "url": "https://github.com/Swaroopfullstack/evidencedesk-agentic-rag",
+  "source_revision": "d4880b602e4748815f0fd0533d4dcb892585e02a",
+  "source_project": "02-evidencedesk",
+  "runtime": "vendored self-contained portfolio package"
+}
